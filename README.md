@@ -1,2 +1,4 @@
-# leetcode
-Solutions to leetcode challenges
+#Leetcode solutions
+
+Hello! 
+Here are my solutions to the leetcode problems!
