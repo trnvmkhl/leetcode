@@ -1,4 +1,4 @@
-#Leetcode solutions
+# Leetcode solutions
 
-Hello! 
-Here are my solutions to the leetcode problems!
+Привет! 
+Здесь лежат мои решения задач с литкода!
