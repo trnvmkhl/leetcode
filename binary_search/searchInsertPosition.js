@@ -1,6 +1,9 @@
 // https://leetcode.com/problems/search-insert-position/
 
 
+// Пользуемся алгоритмом бинарного поиска (ищем лишь в половине массива)
+// Возвращаем позицию target, либо предполагаемую позицию
+
  var searchInsert = function(nums, target) {
     let start = 0;
     let end = nums.length-1
